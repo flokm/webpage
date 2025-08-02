@@ -1,6 +1,6 @@
 ---
 title: Payload-aware Trajectory Optimisation for Mobile Multi-robot Manipulation with Tip-Over Avoidance
-summary: Lates work on multi-robot transport published in the Robotics and Automation Letters (RA-L)
+summary: Latest work on multi-robot transport published in the Robotics and Automation Letters (RA-L)
 date: 2025-08-02
 math: true
 authors:
