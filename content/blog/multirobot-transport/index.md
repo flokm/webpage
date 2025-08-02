@@ -27,4 +27,4 @@ The video accompanying the paper:
 
 The paper PDF:
 
-{{< embed-pdf url="content/blog/multirobot-transport/mulit-robot-manipulation-RAL.pdf" >}}
+{{< embed-pdf url="multi-robot-manipulation-RAL.pdf" >}}
