@@ -28,3 +28,4 @@ The video accompanying the paper:
 The paper PDF:
 
 {{< embed-pdf url="multi-robot-manipulation-RAL.pdf" >}}
+[Open PDF](multi-robot-manipulation-RAL.pdf)
