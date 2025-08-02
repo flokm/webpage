@@ -28,4 +28,4 @@ The video accompanying the paper:
 The paper PDF:
 
 {{< embed-pdf url="/workspaces/webpage/content/blog/multirobot-transport/multi-robot-manipulation-RAL.pdf" >}}
-<iframe src="content/blog/multirobot-transport/multi-robot-manipulation-RAL.pdf" width="600" height="500"></iframe>
+<iframe src="multi-robot-manipulation-RAL.pdf" width="600" height="500"></iframe>
