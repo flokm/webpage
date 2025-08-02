@@ -51,4 +51,4 @@ highlight_name: true
 website: ""
 ---
 
-# Addtitional text here
+Florian is an engineering trainee in the R&D department of Swiss metal tooling company Fraisa. Previously I did my PhD at the Computational Robotics Lab of ETH Zurich, co-founded AR start-up RosieReality and studied Microtechnical Engineering at EPFL and UPenn.
