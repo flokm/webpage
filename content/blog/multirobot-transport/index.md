@@ -27,4 +27,4 @@ The video accompanying the paper:
 
 The paper PDF:
 
-<iframe src="multi-robot-manipulation-RAL.pdf" width="80%"></iframe>
+{{ < embed-pdf url="./multi-robot-manipulation-RAL.pdf"  > }}
