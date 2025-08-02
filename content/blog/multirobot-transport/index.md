@@ -22,3 +22,9 @@ Cooperative mobile manipulation is an increasingly important topic in robotics: 
 The video accompanying the paper:
 
 {{< youtube tjGJvG8biL8 >}}
+
+## Paper
+
+The paper PDF:
+
+{{< embed-pdf url="content/blog/multirobot-transport/mulit-robot-manipulation-RAL.pdf" >}}
